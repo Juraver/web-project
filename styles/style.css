@@ -4,10 +4,10 @@
     height: 100px;
 }
 
-.page {
+/* .page {
     max-width: 1280px;
     min-width: 320px;
-}
+} */
 
 .header {
     display: flex;
@@ -15,7 +15,7 @@
 }
 
 .header_logo {
-    background-image: url('./img/logo.svg');
+    background-image: url('./../img/logo.svg');
     width: 176px;
     height: 52px;
     background-size: 176px 52px;
@@ -25,30 +25,30 @@
     color: white;
 }
 
-.lead {
+/* .lead {
     width: 984px;
     margin: 0 auto;
-}
+} */
 
-.lead-title,
+/* .lead-title,
 .lead-subtitle,
 .lead-caption {
     color: white;
     margin-block-start: 0;
     margin-block-end: 0;
-}
+} */
 
 
-.lead-title {
+/* .lead-title {
     font-family: Inter;
     font-size: 96px;
     font-weight: 900;
     line-height: 100px;
     letter-spacing: 0em;
     text-align: center;
-}
+} */
 
-.lead-subtitle {
+/* .lead-subtitle {
     font-family: Inter;
     font-size: 30px;
     font-weight: 400;
@@ -57,9 +57,9 @@
     text-align: center;
     padding-top: 32px;
     padding-bottom: 64px;
-}
+} */
 
-.lead-caption {
+/* .lead__caption {
     font-family: Inter;
     font-size: 10px;
     font-weight: 400;
@@ -67,14 +67,14 @@
     letter-spacing: 1.5px;
     text-align: left;
     padding-top: 8px;
-}
+} */
 
-.intro {
+/* .intro {
     width: 690px;
     margin: 92px auto 0px 148px;
-}
+} */
 
-.intro-title {
+/* .intro__title {
     color: white;
     font-size: 54px;
     font-weight: 900;
@@ -82,9 +82,9 @@
     letter-spacing: 0em;
     text-align: left;
     font-family: Inter;
-}
+} */
 
-.intro-text {
+/* .intro__text {
     font-family: Inter;
     color: white;
     font-size: 16px;
@@ -92,9 +92,9 @@
     line-height: 26px;
     letter-spacing: 0em;
     text-align: left;
-}
+} */
 
-.intro-list {
+/* .intro__list {
     font-family: Inter;
     color: white;
     font-size: 12px;
@@ -102,8 +102,8 @@
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-}
-.intro-list-item {
+} */
+/* .intro__list-item {
     font-family: Inter;
     color: white;
     font-size: 12px;
@@ -112,4 +112,4 @@
     letter-spacing: 0em;
     text-align: left;
     list-style: none;
-}
+} */
