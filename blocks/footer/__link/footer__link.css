@@ -1,11 +1,14 @@
 .footer_link {
+    color: white;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    max-width: 100px;
-    width: 100%;
+    max-width: 400px;
+    /* width: 100%; */
     height: 18px;
     left: 48px; 
+    /* word-spacing: 15px; */
+
+}
       
     
-}

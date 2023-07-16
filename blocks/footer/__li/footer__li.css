@@ -1,5 +1,5 @@
 .footer_li {
-    display: flex;
+    /* display: flex;
     flex-direction: row;
     font-family: Inter;
     font-size: 16px;
@@ -7,7 +7,9 @@
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-    width: 100%;
+    width: 100%; */
+    word-spacing: 3px;
+   
 
     
 
