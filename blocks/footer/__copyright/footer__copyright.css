@@ -1,11 +1,16 @@
 .footer__copyright {
-    display: flex;
+    /* display: flex;
     width: 186px;
     height: 16px;
-    /* top: 6835px; */
-    /* left: 1046px; */
+    top: 6835px; */ 
+    /* left: 1046px;
     margin-left: 640px; 
     margin-top: 0px;
-    /* flex-direction: row; */
+    flex-direction: row; */
+
+    margin: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
 
 }
